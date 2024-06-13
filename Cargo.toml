@@ -1,0 +1,13 @@
+[package]
+name = "str-ctx"
+version = "0.0.1"
+edition = "2021"
+description = "Simple string context map"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/holochain/str-ctx"
+documentation = "https://docs.rs/str-ctx"
+authors = [ "Holochain Core Dev Team <devcore@holochain.org>" ]
+keywords = ["debug", "context", "no_std"]
+categories = ["data-structures"]
+
+[dependencies]
